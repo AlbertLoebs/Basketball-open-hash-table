@@ -1,0 +1,151 @@
+bioID,firstName,middleName,lastName,nameGiven,fullGivenName,nameSuffix,nameNick,pos,firstseason,lastseason,height,weight,college,collegeOther,birthDate,birthCity,birthState,birthCountry,highSchool,hsCity,hsState,hsCountry,deathDate,race
+spainke01,John,Kenneth,Spain, , , ,Ken,C,0,0,81.00,225,Houston, ,1946-10-06,Houston,TX,USA,Austin,Houston,TX,USA,1990-10-15,W
+nelsoro01,Ron, ,Nelson, , , , ,G,0,0,74.00,175,New Mexico, ,1946-10-07, , , ,Artesia,Artesia,NM,USA,0000-00-00,W
+harlisk01,Jules,Peter,Harlicka, , , ,Skip,G,0,0,73.00,178,South Carolina, ,1946-10-14,Trenton,NJ,USA,Notre Dame,Trenton,NJ,USA,0000-00-00,W
+butlemi01,Michael,Edward,Butler, , , ,Mike,G,0,0,74.00,170,Memphis State, ,1946-10-22,Memphis,TN,USA,Kingsbury,Memphis,TN,USA,0000-00-00,W
+combsgl01,Glen,Courtney,Combs, , , ,The Kentucky Rifle,G,0,0,74.00,185,Virginia Tech, ,1946-10-30,Hazard,KY,USA,Carr Creek,Carr Creek,KY,USA,0000-00-00,W
+donovbi01,William,John,Donovan, , , ,Billy- Billy the Kid,G,0,0,71.00,171,Providence, ,1965-05-30,Rockville Centre,NY,USA,St. Agnes,Rockville Centre,NY,USA,0000-00-00,W
+gaineco01,Corey,Yasuto,Gaines, , , , ,G,0,0,75.00,195,Loyola Marymount,UCLA,1965-06-01,Los Angeles,CA,USA,St. Bernard,Playa del Ray,CA,USA,0000-00-00,B
+perryti01,Timothy,D.,Perry, , , ,Tim,F-C,0,0,81.00,200,Temple, ,1965-06-04,Freehold,NJ,USA,Freehold,Freehold,NJ,USA,0000-00-00,B
+critewi01,Winston,Arnel,Crite, , , , ,F,0,0,79.00,233,Texas A&M, ,1965-06-20,Bakersfield,CA,USA,South,Bakersfield,CA,USA,0000-00-00,B
+johnska01,Kannard, ,Johnson, , , , ,F,0,0,81.00,220,Western Kentucky, ,1965-06-24,Cincinnati,OH,USA,Taft,Cincinnati,OH,USA,0000-00-00,B
+richmmi01,Mitchell,James,Richmond, , ,III,Mitch- Rock- Hammer,G,0,0,77.00,215,Kansas State,Moberly Area JC,1965-06-30,Fort Lauderdale,FL,USA,Boyd Anderson,Fort Lauderdale,FL,USA,0000-00-00,B
+grantha01,Harvey, ,Grant, , , ,The General,F,0,0,80.00,195,Oklahoma,Clemson / Independence JC,1965-07-04,Augusta,GA,USA,Hancock Central,Sparta,GA,USA,0000-00-00,B
+grantho01,Horace,Junior,Grant, , , ,The General,F-C,0,0,82.00,215,Clemson, ,1965-07-04,Augusta,GA,USA,Hancock Central,Sparta,GA,USA,0000-00-00,B
+brownra01,Raymond, ,Brown, , , , ,F,0,0,80.00,220,Idaho,Mississippi State,1965-07-05,Atlanta,GA,USA,Sylvan,Atlanta,GA,USA,0000-00-00,B
+copella01,Lanard, ,Copeland, , , , ,G,0,0,78.00,190,Georgia State, ,1965-07-16,Atlanta,GA,USA,Booker T. Washington (DNP),Atlanta,GA,USA,0000-00-00,B
+smithch01,Charles,Daniel,Smith, , , , ,F-C,0,0,82.00,230,Pittsburgh, ,1965-07-16,Bridgeport,CT,USA,Warren Harding,Bridgeport,CT,USA,0000-00-00,B
+arlaujo01,Joseph, ,Arlauckas, , , ,Joe,F-C,0,0,81.00,230,Niagara, ,1965-07-20,Rochester,NY,USA,Jefferson,Rochester,NY,USA,0000-00-00,W
+gazean01,Andrew,Barry Casson,Gaze, , , , ,G,0,0,78.00,205,Seton Hall, ,1965-07-24,Melbourne, ,AUS,Albert Park,Melbourne   , ,AUS,0000-00-00,W
+jameshe01,Henry,Charles,James, , , , ,F,0,0,80.00,220,St. Mary's (TX),South Plains (TX),1965-07-29,Centreville,AL,USA,North Side,Fort Wayne,IN,USA,0000-00-00,B
+brooksc01,Scott,William,Brooks, , , , ,G,0,0,71.00,165,California-Irvine,TCU / San Joaquin Delta,1965-07-31,French Camp,CA,USA,East Union,Manteca,CA,USA,0000-00-00,W
+robinda01,David,Maurice,Robinson, , , ,The Admiral,C,0,0,85.00,235,Navy, ,1965-08-06,Key West,FL,USA,Osbourn Park,Manassas,VA,USA,0000-00-00,B
+starkjo01,John,Levell,Starks, , , , ,G,0,0,75.00,180,Oklahoma State,N. Oklahoma / Rogers St/ Okla JC,1965-08-10,Tulsa,OK,USA,Tulsa Central,Tulsa,OK,USA,0000-00-00,B
+millere01,Reginald,Wayne,Miller, , , ,Reggie,G-F,0,0,79.00,185,UCLA, ,1965-08-24,Riverside,CA,USA,Riverside Polytech,Riverside,CA,USA,0000-00-00,B
+perduwi01,William,Edward,Perdue, , ,III,Will,C,0,0,84.00,240,Vanderbilt, ,1965-08-29,Melbourne,FL,USA,Merritt Island,Merritt Island,FL,USA,0000-00-00,W
+cofferi01,Richard,Lee,Coffey, , , , ,F,0,0,78.00,212,Minnesota, ,1965-09-02,Aurora,NC,USA,Aurora,Aurora,NC,USA,0000-00-00,B
+majerda01,Daniel,Lewis,Majerle, , , ,Dan- Thunder Dan,G-F,0,0,78.00,215,Central Michigan, ,1965-09-09,Traverse City,MI,USA,Traverse City Sr.,Traverse City,MI,USA,0000-00-00,W
+maxweve01,Vernon, ,Maxwell, , , ,Hawk- Mad Max,G,0,0,76.00,180,Florida, ,1965-09-12,Gainesville,FL,USA,Buchholz,Gainesville,FL,USA,0000-00-00,B
+gillebe01,Benjamin, ,Gillery, , , ,Ben,C,0,0,84.00,235,Georgetown,Hutchinson CC,1965-09-19,Detroit,MI,USA,Central / Murray-Wright / Cody,Detroit,MI,USA,0000-00-00,B
+pippesc01,Scottie, ,Pippen, , , , ,F-G,0,0,79.00,210,Central Arkansas, ,1965-09-25,Hamburg,AR,USA,Hamburg,Hamburg,AR,USA,0000-00-00,B
+curcira01,Radisav, ,Curcic, , , , ,C,0,0,82.00,275,none, ,1965-09-26,Cacak, ,YUG,Cacak,Cacak, ,YUG,0000-00-00,W
+kerrst01,Stephen,Douglas,Kerr, , , ,Steve,G,0,0,75.00,175,Arizona, ,1965-09-27,Beirut, ,LIB,Pacific Palisades,Pacific Palisades,CA,USA,0000-00-00,W
+hendece01,Cedric, ,Henderson, , , , ,F-C,0,0,80.00,210,Georgia, ,1965-10-03,Marietta,GA,USA,Marietta,Marietta,GA,USA,0000-00-00,B
+wadema01,Mark,A.,Wade, , , , ,G,0,0,71.00,160,UNLV,Oklahoma/El Camino,1965-10-15,Torrance,CA,USA,Banning,Los Angeles,CA,USA,0000-00-00,B
+greenlu01,Luther, ,Green, , , ,Sally,F,0,0,79.00,190,LIU, ,1946-11-13,New York,NY,USA,DeWitt Clinton,Bronx,NY,USA,2006-01-25,B
+hillsi01,Simmie, ,Hill, , ,Jr., ,F,0,0,79.00,233,Texas Baptist,Wichita St/W Tex St/Cameron JC/El Centro,1946-11-14,Midland,PA,USA,Lincoln,Midland,PA,USA,0000-00-00,B
+whitejo01,Joseph,Henry,White, , , ,Jo Jo,G,0,0,75.00,190,Kansas, ,1946-11-16,St. Louis,MO,USA,O'Fallon Tech/Vashon/McKinley,St. Louis,MO,USA,0000-00-00,B
+colliji01,James,E.,Collins, , , ,Jimmy,G,0,0,74.00,175,New Mexico State, ,1946-11-24,Syracuse,NY,USA,Corcoran,Syracuse,NY,USA,0000-00-00,B
+kondlto01,Thomas,A.,Kondla, , , ,Tom,C,0,0,80.00,225,Minnesota, ,1946-11-30,Brookfield,IL,USA,Riverside-Brookfield,Riverside,IL,USA,0000-00-00,W
+johnsri01,Richard,Lewis,Johnson, , , ,Rich,C,0,0,79.00,210,Grambling, ,1946-12-18,New Orleans,LA,USA, , , , ,1994-06-15,B
+hoskebi01,Wilmer,Frederick,Hosket, , , ,Bill,F-C,0,0,79.50,225,Ohio State, ,1946-12-20,Dayton,OH,USA,Belmont,Dayton,OH,USA,0000-00-00,W
+hoopebo01,Bobby,Joe,Hooper, , , ,Bobby Joe- Bob,G,0,0,72.00,180,Dayton, ,1946-12-22,Lee's Creek,OH,USA,Simon Kenton,Dayton,OH,USA,0000-00-00,W
+englicl01,Claude,W.,English, , , , ,F,0,0,76.00,180,Rhode Island,Christian College of the Southwest,1946-12-26,Columbus,GA,USA, , , , ,0000-00-00,B
+jonesri01,Richard,Wesley,Jones, , , ,Rich- House,F-C,0,0,78.00,220,Memphis State,Illinois,1946-12-27,Memphis,TN,USA,Lester,Memphis,TN,USA,0000-00-00,B
+ogdenbu01,Carlos, ,Ogden, , , ,Bud,F,0,0,78.00,215,Santa Clara, ,1946-12-29,San Luis Obispo,CA,USA,Lincoln,San Jose,CA,USA,0000-00-00,W
+higgiea01,Earle,Brent,Higgins, , , ,Sticks,F,0,0,80.00,195,Eastern Michigan,Casper JC,1946-12-30, , , ,Ann Arbor,Ann Arbor,MI,USA,0000-00-00,B
+mountri01,Richard,Carl,Mount, , , ,Rick- The Rocket,G,0,0,75.00,175,Purdue, ,1947-01-05,Lebanon,IN,USA,Lebanon,Lebanon,IN,USA,0000-00-00,W
+kennejo01,Joseph,A.,Kennedy, , , ,Joe,F,0,0,78.00,210,Duke, ,1947-01-12, , , ,DeMatha Catholic,Hyattsville,MD,USA,0000-00-00,W
+harriar01,Arthur,Carlos,Harris, , ,Jr.,Art,G,0,0,76.00,185,Stanford, ,1947-01-13,Chicago,IL,USA,Jordan,Los Angeles,CA,USA,2007-10-13,B
+smithal01,Alan,Richard,Smith, , , ,Al,G,0,0,73.00,185,Bradley, ,1947-01-15,Peoria,IL,USA,Manual,Peoria,IL,USA,0000-00-00,B
+smithgr01,Gregory,Darnell,Smith, , , ,Greg,F,0,0,77.00,195,Western Kentucky, ,1947-01-28,Princeton,KY,USA,Caldwell County,Caldwell,KY,USA,0000-00-00,B
+haganto01,Thomas,Medard,Hagan, , , ,Tom,G,0,0,75.00,185,Vanderbilt, ,1947-01-29,Louisville,KY,USA,St. Xavier,Louisville,KY,USA,0000-00-00,W
+garredi01,Eldo, ,Garrett, , , ,Dick- PeeWee,G,0,0,75.00,185,Southern Illinois, ,1947-01-31,Chicago,IL,USA,Centralia,Centralia,IL,USA,0000-00-00,B
+winfile01,Leroy, ,Winfield, , , ,Lee,G,0,0,74.00,174,North Texas State,St. Louis Baptist JC,1947-02-04,St. Louis,MO,USA,Sumner,St. Louis,MO,USA,2011-02-04,B
+wrighho01,Howard,L.,Wright, , , ,Howie,G,0,0,75.00,185,Austin Peay, ,1947-02-22,Louisville,KY,USA, , , , ,0000-00-00,B
+fratemi01,Mike, ,Fratello, , , , , ,0,0,67.00,150,Montclair State, ,1947-02-24, , , , , , , ,0000-00-00,
+gilmowa01,Walt, ,Gilmore, , , , ,F,0,0,78.00,225,Fort Valley State, ,1947-02-27,Millen,GA,USA, , , , ,0000-00-00,B
+joneswi02,Wilbert, ,Jones, , , ,Wil,F,0,0,80.00,205,Albany State (GA), ,1947-02-27,McGehee,AR,USA,Desha Central,Rohwer,AR,USA,0000-00-00,B
+evansbi01,William,D.,Evans, , , ,Billy- Bill,G,0,0,72.00,170,Boston College, ,1947-03-03,(ht) New Haven,CT,USA,Hillhouse,New Haven,CT,USA,0000-00-00,W
+wisewi01,Willie,M.,Wise, , , ,Wondrous Willie,F,0,0,77.00,210,Drake,San Francisco CC,1947-03-03,San Francisco,CA,USA,Balboa,San Francisco,CA,USA,0000-00-00,B
+fillmgr01,Gregory,Paul,Fillmore, , , ,Greg,C,0,0,85.00,240,Cheyney State,Fort Dodge CC,1947-03-07,Philadelphia,PA,USA,Franklin,Philadelphia,PA,USA,0000-00-00,B
+taylool01,Oliver,Harold,Taylor, , , ,Ollie,G-F,0,0,74.00,194,Houston,San Jacinto JC,1947-03-07,New York,NY,USA,DeWitt Clinton,New York,NY,USA,0000-00-00,B
+greenla01,Lamar,Anthony,Green, , , ,Sweetmar,F-C,0,0,79.00,210,Morehead State, ,1947-03-22,Birmingham,AL,USA,Carver,Birmingham,AL,USA,0000-00-00,B
+portmbo01,Robert,M.,Portman, , , ,Bob,F,0,0,77.00,200,Creighton, ,1947-03-22,San Francisco,CA,USA,St. Ignatius,San Francisco,CA,USA,0000-00-00,W
+vanlino01,Norman,Allen,Van Lier, , ,III,Norm- Stormin' Norman,G,0,0,73.00,173,St. Francis (PA), ,1947-04-01,East Liverpool,OH,USA,Midland,Midland,PA,USA,2009-02-26,B
+willige01,Eugene, ,Williams, , , ,Gene,F,0,0,79.00,235,Kansas State,San Francisco City,1947-04-01,San Francisco,CA,USA,Galileo,San Francisco,CA,USA,0000-00-00,B
+gillihe01,Herman,L.,Gilliam, , ,Jr.,Herm,G-F,0,0,75.00,185,Purdue, ,1947-04-05,Winston-Salem,NC,USA,Atkins,Winston-Salem,NC,USA,2005-04-16,B
+stewade01,Dennis,Edward,Stewart, , , , ,F,0,0,78.00,220,Michigan, ,1947-04-11, , , ,Steelton-Highspire,Steelton,PA,USA,0000-00-00,B
+cannola01,Lawrence,T.,Cannon, , , ,Larry,G,0,0,76.00,195,LaSalle, ,1947-04-12,Philadelphia,PA,USA,Lincoln,Philadelphia,PA,USA,0000-00-00,W
+abdulka01,Kareem, ,Abdul-Jabbar, ,Ferdinand Lewis Alcindor  Jr., ,Lew - Cap,C,0,0,85.00,225,UCLA, ,1947-04-16,New York,NY,USA,Power Memorial,New York,NY,USA,0000-00-00,B
+beardbu01,Alfred, ,Beard, , ,Jr.,Butch,G,0,0,75.00,185,Louisville, ,1947-05-04,Hardinsburg,KY,USA,Breckenridge County,Hardinsburg,KY,USA,0000-00-00,B
+wittmgr01,H.,Gregory,Wittman, , , ,Greg,F,0,0,80.00,210,Western Carolina, ,1947-05-10,Rockingham,NC,USA,Rockingham,Rockingham,NC,USA,0000-00-00,W
+lloydch01,Charles,P.,Lloyd, , ,Jr.,Chuck,C-F,0,0,80.00,220,Yankton,Kansas,1947-05-22, , , ,Arlington,Arlington Heights,IL,USA,0000-00-00,W
+scottwi01,Willie, ,Scott, , , , ,F,0,0,77.00,210,Alabama State,Troy State ?,1947-05-22,Gadsden,AL,USA, , , , ,0000-00-00,B
+briskjo01,John, ,Brisker, , , , ,F-G,0,0,77.00,210,Toledo, ,1947-06-15,Detroit,MI,USA,Hamtramck,Hamtramck,MI,USA,0000-00-00,B
+johnsge01,George,E.,Johnson, , , , ,C,0,0,83.00,245,Stephen F. Austin, ,1947-06-19,Herleton,TX,USA, , , , ,0000-00-00,B
+maravpe01,Peter,Press,Maravich, , , ,Pete- Pistol Pete,G,0,0,77.00,197,Louisiana State, ,1947-06-22,Aliquippa,PA,USA,Needham Broughton / Daniels / Edwards,Raleigh / Clemson / Salemburg,NC/SC/NC,USA,1988-01-05,W
+roberri01,Rick, ,Roberson, , , , ,C-F,0,0,81.00,230,Cincinnati, ,1947-07-07,Memphis,TN,USA,Mitchell,Memphis,TN,USA,0000-00-00,B
+warrejo01,John, ,Warren, , ,II,Johnny,G-F,0,0,75.00,180,St. John's (NY), ,1947-07-07,Sparta,GA,USA,Far Rockaway,Far Rockaway,NY,USA,0000-00-00,B
+meelycl01,Cliff, ,Meely, , , , ,F-C,0,0,80.00,215,Colorado,Northeastern JC,1947-07-10,Rosedale,MS,USA,Northwestern,Sterling,CO,USA,0000-00-00,B
+washibo01,Robert, ,Washington, , , ,Bobby,G,0,0,71.00,175,Eastern Kentucky, ,1947-07-11, , , ,Dunbar,Lexington,KY,USA,0000-00-00,B
+wilsoja01,Jasper, ,Wilson, , , , ,F,0,0,78.00,200,Southern University, ,1947-07-12,Camden,AR,USA, , , , ,0000-00-00,B
+grubadi01,Richard,Arthur,Grubar, , , ,Dick,G,0,0,76.00,184,North Carolina, ,1947-07-26,Schenectady,NY,USA,Bishop Gibbons,Schenectady,NY,USA,0000-00-00,W
+calvima01,Mack, ,Calvin, , , , ,G,0,0,72.00,165,USC,Long Beach City,1947-07-27,Fort Worth,TX,USA,Long Beach Polytech,Long Beach,CA,USA,0000-00-00,B
+knighro01,Ronald,Eugene,Knight, , , ,Ron,F,0,0,79.00,210,Los Angeles State, ,1947-08-04, , , ,Compton,Compton,CA,USA,0000-00-00,B
+norwowi01,Willie,B.,Norwood, , , , ,F,0,0,79.00,215,Alcorn A&M, ,1947-08-08,Carrolton,MS,USA,Marshall,Carrolton,MS,USA,0000-00-00,B
+croftbo01,Robert,Alexander,Croft, , , ,Bobby- Bob,C,0,0,82.00,200,Tennessee, ,1947-08-10, , ,CAN,Hill Park,Hamilton,ON,CAN,0000-00-00,W
+thigpju01,Justus, ,Thigpen, , , , ,G,0,0,73.00,160,Weber State,Flint JC,1947-08-13, , , ,Flint Northern,Flint,MI,USA,0000-00-00,B
+arthujo01,John,Charles,Arthurs, , , , ,G,0,0,76.00,185,Tulane, ,1947-08-15, , , ,DeLaSalle,New Orleans,LA,USA,0000-00-00,W
+bankswa01,Walker,Burrell,Banks, , ,Jr., ,C,0,0,82.00,205,Western Kentucky, ,1947-08-26, , , ,Clifton Forge,Clifton Forge,VA,USA,0000-00-00,B
+buntibi02,William,Carl,Bunting, , , ,Bill,F-C,0,0,80.00,195,North Carolina, ,1947-08-26,New Bern,NC,USA,New Bern,New Bern,NC,USA,0000-00-00,W
+greyde01,Dennis, ,Grey, , , , ,C-F,0,0,80.00,215,California Western, ,1947-08-26,San Diego,CA,USA,Crawford,San Diego,CA,USA,0000-00-00,W
+shackly01,Ray,Lynn,Shackelford, , , ,Lynn,F,0,0,77.00,190,UCLA, ,1947-08-27, , , ,Burroughs,Burbank,CA,USA,0000-00-00,W
+driscte01,Edward,Cuthbert,Driscoll, , ,Jr.,Terry,F,0,0,79.00,215,Boston College, ,1947-08-28,Winthrop,MA,USA,Boston College H.S.,Boston,MA,USA,0000-00-00,W
+kellebi01,William,Curry,Keller, , , ,Billy- Bill,G,0,0,70.00,177,Purdue, ,1947-08-30,Indianapolis,IN,USA,Washington,Indianapolis,IN,USA,0000-00-00,W
+grossmi01,Michael,James,Grosso, , , ,Mike,C,0,0,81.00,230,Louisville,South Carolina,1947-09-07,Raritan,NJ,USA,Bridgewater-Raritan,Raritan,NJ,USA,0000-00-00,W
+wingoha01,Harthorne,Nathaniel,Wingo, , , ,Wingy,F,0,0,78.00,210,Friendship JC, ,1947-09-09,Tryon,NC,USA,Tryon,Tryon,NC,USA,0000-00-00,B
+hentzch01,Charles, ,Hentz, , , ,Charlie- Helicopter,F,0,0,77.00,210,Arkansas AM&N, ,1947-09-13, , , , , , , ,0000-00-00,B
+greacbo01,Robert,Alexander,Greacen, , , ,Bob,F,0,0,79.00,206,Rutgers, ,1947-09-15,(ht) Merchantville,NJ,USA,Merchantville,Merchantville,NJ,USA,0000-00-00,W
+hillbr01,Brian, ,Hill, , , , , ,0,0,69.00,175,Kennedy College, ,1947-09-19, , , , , , , ,0000-00-00,
+allenlu01,Lucius,Oliver,Allen, , ,Jr., ,G,0,0,74.00,175,UCLA, ,1947-09-26,Kansas City,KS,USA,Wyandotte,Kansas City,KS,USA,0000-00-00,B
+gilleja01,Jack,A.,Gillespie, , , , ,F,0,0,78.00,215,Montana State, ,1947-10-01, , , ,Great Falls,Great Falls,MT,USA,0000-00-00,W
+johnsjo01,John,Howard Getty,Johnson, , , ,J.J.,F,0,0,79.00,200,Iowa,Northwest CC,1947-10-18,Carthage,MS,USA,Messmer,Milwaukee,WI,USA,0000-00-00,B
+glovecl01,Clarence, ,Glover, , , , ,F,0,0,80.00,210,Western Kentucky, ,1947-11-01,Horse Caves,KY,USA,Caverna,Horse Caves,KY,USA,0000-00-00,B
+arnzebo01,Robert,Louis,Arnzen, , , ,Bob,F,0,0,77.00,205,Notre Dame, ,1947-11-03,Covington,KY,USA,St. Xavier,Cincinnati,OH,USA,0000-00-00,W
+kuberst01,Stephen,Paul,Kuberski, , , ,Steve,F-C,0,0,80.00,215,Bradley,Illinois,1947-11-06,Moline,IL,USA,Moline,Moline,IL,USA,0000-00-00,W
+dandrbo01,Robert,L.,Dandridge, , ,Jr.,Bob- Bobby- Greyhound,F-G,0,0,78.00,195,Norfolk State, ,1947-11-15,Richmond,VA,USA,Maggie Walker,Richmond,VA,USA,0000-00-00,B
+zellega01,Gary,Lynn,Zeller, , , , ,G,0,0,75.00,205,Drake,Long Beach CC / North Texas State,1947-11-20, , KS,USA,Lamar,Houston,TX,USA,1996-02-05,W
+tayloro01,Ronald, ,Taylor, , , ,Ron- Lurch,C,0,0,85.00,265,USC, ,1947-11-21,Torrance,CA,USA,North Torrance,North Torrance,CA,USA,0000-00-00,W
+reynoge01,George, ,Reynolds, , , , ,G,0,0,76.00,195,Houston,Imperial Valley JC,1947-11-23, , , ,Central,Newark,NJ,USA,0000-00-00,B
+virdecl01,Claude,Felton,Virden, , , , ,F,0,0,77.50,195,Murray State, ,1947-11-25,Akron,OH,USA,Central Hower,Akron,OH,USA,0000-00-00,B
+adamsdo01,Donald,L.,Adams, , , ,Don,F,0,0,78.00,210,Northwestern, ,1947-11-27,Atlanta,GA,USA,South Fulton,South Fulton,GA,USA,0000-00-00,B
+thompge01,George, ,Thompson, , , ,Tip- Tipper,G,0,0,74.00,200,Marquette, ,1947-11-29,Brooklyn,NY,USA,Erasmus Hall,Brooklyn,NY,USA,0000-00-00,B
+deprejo01,Joe, ,DePre, , , , ,G,0,0,75.00,185,St. John's (NY), ,1947-12-19,Westbury,NY,USA,Westbury,Westbury,NY,USA,0000-00-00,B
+mixst01,Steven,Charles,Mix, , , ,Steve,F,0,0,79.00,215,Toledo, ,1947-12-30,Toledo,OH,USA,Rogers,Toledo,OH,USA,0000-00-00,W
+robinsa01,Samuel,Lee,Robinson, , , ,Sam,F,0,0,79.00,190,Long Beach State,Pasadena City,1948-01-01,Los Angeles,CA,USA,Jefferson,Los Angeles,CA,USA,0000-00-00,B
+wilsoji01,James, ,Wilson, , , ,Jim,G,0,0,70.00,175,Cheyney State, ,1948-01-01, , , ,Edward W. Bok Technical,Philadelphia,PA,USA,0000-00-00,B
+howargr01,Gregory,Darryle,Howard, , , ,Greg- Stretch,F-C,0,0,81.00,215,New Mexico,Hartnell CC,1948-01-08,Pittsburgh,PA,USA,Fifth Avenue,Pittsburgh,PA,USA,0000-00-00,B
+handlbe01,Benjamin, ,Handlogten, , , ,Ben,C,0,0,82.00,240,Western Michigan, ,1973-11-12,Grand Rapids,MI,USA,South Christian,Grand Rapids,MI,USA,0000-00-00,W
+hamerst01,Stevie,Ray,Hamer, , , ,Steve,C,0,0,84.00,245,Tennessee, ,1973-11-13,Memphis,TN,USA,Middleton,Middleton,TN,USA,0000-00-00,B
+stricer01,Demerick,Montae,Strickland, , , ,Erick,G,0,0,75.00,210,Nebraska, ,1973-11-25,Opelika,AL,USA,West,Bellevue,NE,USA,0000-00-00,B
+penbemi01,Mike, ,Penberthy, , , , ,G,0,0,75.00,185,The Masters College, ,1973-11-29,Los Gatos,CA,USA,Hoover,Fresno,CA,USA,0000-00-00,W
+willico02,Corliss,Mondari,Williamson, , , ,Big Nasty,F,0,0,79.00,245,Arkansas, ,1973-12-04,Russellville,AR,USA,Russellville,Russellville,AR,USA,0000-00-00,B
+larueru01,Rusty, ,LaRue, , , , ,G,0,0,74.00,185,Wake Forest, ,1973-12-10,Winston-Salem,NC,USA,Northwest Senior,Greensboro,NC,USA,0000-00-00,W
+ndiayma01,Makhtar,Vincent,N'Diaye, , , , ,F,0,0,80.00,231,North Carolina,Wake Forest / Michigan,1973-12-12,Diourbel, ,SEN,Oak Hill Academy,Mouth of Wilson,VA,USA,0000-00-00,B
+burkepa01,Patrick,John,Burke, , , ,Pat,F-C,0,0,83.00,250,Auburn, ,1973-12-14,Dublin, ,IRL,Mariner,Cape Coral,FL,USA,0000-00-00,W
+stewake01,Kebu, ,Stewart, , , , ,F,0,0,80.00,239,Cal. State - Bakersfield,UNLV,1973-12-19,Brooklyn,NY,USA,Our Savior Lutheran / John Jay / Oak Hill,Bronx  / Brooklyn / Mouth of Wilson,NY / NY/ VA,USA,0000-00-00,B
+robinja03,Jamal,Tyrone,Robinson, , , , ,F,0,0,79.00,195,Virginia , ,1973-12-27,San Diego,CA,USA,Msgr. McClancy,Queens,NY,USA,0000-00-00,B
+reiddo01,Don,Corey,Reid, , , , ,F,0,0,80.00,250,Georgetown, ,1973-12-30,Washington,DC,USA,Largo,Largo,MD,USA,0000-00-00,B
+andersh01,Shandon,Rodriguez,Anderson, , , ,Rod,F-G,0,0,78.00,208,Georgia, ,1973-12-31,Atlanta,GA,USA,Crim,Atlanta,GA,USA,0000-00-00,B
+grantpa01,Paul,Edward,Grant, , , , ,C,0,0,83.00,245,Wisconsin,Boston College,1974-01-06,Pittsburgh,PA,USA,Brother Rice,Birmingham,MI,USA,0000-00-00,W
+kutluib01,Ibrahim, ,Kutluay, , , ,Ibo,G,0,0,78.00,200,none, ,1974-01-07,Istanbul, ,TUR, , , , ,0000-00-00,W
+wintetr01,Trevor, ,Winter, , , , ,C,0,0,84.00,275,Minnesota, ,1974-01-07,Slayton,MN,USA,Slayton,Slayton,MN,USA,0000-00-00,W
+sasseja01,Jason,Jermane,Sasser, , , , ,F,0,0,79.00,210,Texas Tech, ,1974-01-13,Denton,TX,USA,Kimball,Dallas,TX,USA,0000-00-00,B
+delkto01,Tony,Lorenzo,Delk, , , , ,G,0,0,73.00,189,Kentucky, ,1974-01-28,Covington,TN,USA,Haywood,Brownsville,TN,USA,0000-00-00,B
+harriot01,Othella, ,Harrington, , , , ,F-C,0,0,81.00,235,Georgetown, ,1974-01-31,Jackson,MS,USA,Murrah,Jackson,MS,USA,0000-00-00,B
+hiltofr01,Fred, ,Hilton, , , , ,G-F,0,0,74.00,180,Grambling, ,1948-01-15, , , ,McKinley,Baton Rouge,LA,USA,0000-00-00,B
+stricbi01,William,Louis,Stricker, , , ,Bill,F,0,0,80.50,210,Pacific, ,1948-01-22,(ht) Manteca,CA,USA, , , , ,0000-00-00,W
+ogdenra01,Ralph, ,Ogden, , , , ,F,0,0,77.00,205,Santa Clara, ,1948-01-25, , , ,Lincoln,San Jose,CA,USA,0000-00-00,W
+williva01,Duncan,Vann,Williford, , , ,Vann,F,0,0,78.00,195,North Carolina State, ,1948-01-26,Fayetteville,NC,USA,Fayetteville,Fayetteville,NC,USA,0000-00-00,W
+irvinge01,George,R.,Irvine, , , ,Hawkeye,F-G,0,0,78.00,200,Washington, ,1948-02-01,Seattle,WA,USA,Ballard,Seattle,WA,USA,0000-00-00,W
+taylofr01,Fredrick,Ollie,Taylor, , , ,Fred,G-F,0,0,77.00,180,Pan American, ,1948-02-05,Houston,TX,USA,Phyllis Wheatley,Houston,TX,USA,0000-00-00,B
+ridglja01,Jackie,Lendell,Ridgle, , , , ,G,0,0,76.00,195,California, ,1948-02-13, , , ,Martin,Altheimer,AR,USA,1998-08-26,B
+willial01,Alfred,B.,Williams, , , ,Al,F,0,0,78.00,200,Drake, ,1948-02-14,Peoria,IL,USA,Manual,Peoria,IL,USA,2007-07-02,B
+hayesji01,Jim, ,Hayes, , , , ,G,0,0,75.00,200,Boston University, ,1948-02-18,Rockville Centre,NY,USA,St. Agnes,Rockville Centre,NY,USA,2009-03-11,W
+winklma01,Marvin, ,Winkler, , , ,Marv,G,0,0,73.00,164,Southwest Louisiana, ,1948-02-18, , , ,Washington,Indianapolis,IN,USA,0000-00-00,B
+awtrede01,Dennis,Wade,Awtrey, , , , ,C,0,0,82.00,235,Santa Clara, ,1948-02-22,Hollywood,CA,USA,Blackford,San Jose,CA,USA,0000-00-00,W
+webstel01,Elnardo, ,Webster, , , , ,F,0,0,77.00,190,St. Peter's,Wharton County JC,1948-03-06,Jersey City,NJ,USA,Lincoln,Jersey City,NJ,USA,0000-00-00,B
+thomajo01,Joseph,Randle,Thomas, , , ,Joe,F,0,0,77.50,205,Marquette, ,1948-03-09,Canton,GA,USA,Marist,Atlanta,GA,USA,0000-00-00,B
+carrau01,Austin,George,Carr, , , , ,G,0,0,76.00,200,Notre Dame, ,1948-03-10,Washington,DC,USA,Mackin,Washington,DC,USA,0000-00-00,B
+mcmilji01,James,M.,McMillian, , , ,Jim,F,0,0,77.00,215,Columbia, ,1948-03-11,Raeford,NC,USA,Thomas Jefferson,Brooklyn,NY,USA,0000-00-00,B
